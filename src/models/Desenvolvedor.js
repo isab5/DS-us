@@ -3,5 +3,5 @@ class Desenvolvedor {
         this.id = id
         this.codando = codando
         this.linguagem = linguagem
-    }
+    } 
 }
